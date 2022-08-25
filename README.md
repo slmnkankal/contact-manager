@@ -1,6 +1,8 @@
 
 https://github.com/slmnkankal/contact-manager/blob/main/contact-manager.gif
 
+![contact-manager](https://user-images.githubusercontent.com/94119964/186584706-5d637445-ff90-4abe-b2d4-b566a6b1787e.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
